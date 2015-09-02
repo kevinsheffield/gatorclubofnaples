@@ -763,7 +763,7 @@
 		#header .container
 		{
 			position: relative;
-			padding: 4em 0em;
+			padding: 3em 0em;
 		}
 
 /*********************************************************************************/
@@ -774,7 +774,7 @@
 	{
 		position: absolute;
 		left: 0em;
-		top: 3em;
+		top: 1em;
 	}
 	
 		#logo h1
@@ -797,7 +797,7 @@
 	{
 		position: absolute;
 		right: 0em;
-		top: 2.2em;
+		top: 1.8em;
 	}
 
 		#nav > ul > li
