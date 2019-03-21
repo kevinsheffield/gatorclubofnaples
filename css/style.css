@@ -814,7 +814,7 @@
 			#nav > ul > li > span
 			{
 				display: block;
-				margin-left: 0.7em;
+				margin-left: 0; /*0.7em; */
 				padding: 0.80em 1.2em;
 				letter-spacing: 0.06em;
 				text-decoration: none;
